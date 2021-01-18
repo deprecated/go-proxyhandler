@@ -1,3 +1,3 @@
-module github.com/deprecated/proxyhandler
+module github.com/deprecated/go-proxyhandler
 
 go 1.14
